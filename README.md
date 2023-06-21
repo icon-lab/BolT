@@ -2,7 +2,7 @@
 
 ## *Fused Window Transformers for fMRI Time Series Analysis*
 
-Official PyTorch implementation of BolT described in the [paper](https://arxiv.org/abs/2205.11578).
+Official PyTorch implementation of BolT described in the [paper](https://www.sciencedirect.com/science/article/pii/S1361841523001019).
 
 
 ## Overall View
